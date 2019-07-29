@@ -1,4 +1,4 @@
-service: credituback
+service: backend
 runtime: nodejs
 env: flex
 automatic_scaling:
